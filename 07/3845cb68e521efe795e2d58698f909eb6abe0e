@@ -1,0 +1,19 @@
+Makefile
+  s_64c556818fc829::t_49d73acbbd5043 25,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "073845cb68e521efe795e2d58698f909eb6abe0e",
+  "prompts": {},
+  "sessions": {
+    "s_64c556818fc829": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e152f-d82b-7282-b0cf-5af3fbdfcebb",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
