@@ -1,0 +1,22 @@
+go.mod
+  s_64c556818fc829::t_7a0f41d322943d 22-27,29-30,48,108,145-147,153-159,161,163-165
+  s_64c556818fc829::t_4f9b51c848a74e 57-58,144
+AGENTS.md
+  s_64c556818fc829::t_615b3cb81cafaa 11-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "3ceef51649eb12770867949c34dbb7c8570d46f5",
+  "prompts": {},
+  "sessions": {
+    "s_64c556818fc829": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e152f-d82b-7282-b0cf-5af3fbdfcebb",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
